@@ -2,6 +2,11 @@
 ![alt text](https://img.shields.io/badge/Coded-penecuriCode-blue.svg)<br>
 ig-tool is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and This tool works on both rooted Android device and Non-rooted Android device.<br>
 ![shot](https://github.com/pencuricode/ig-tools/blob/main/Screenshot.jpeg)
+<br>
+<p align="center"><br>
+  <a href="https://github.com/penucuriCode">
+    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
+     </a>
 
 # Features
 - [x] Auto Attack
